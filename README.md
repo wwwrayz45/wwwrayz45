@@ -1,8 +1,4 @@
 ### Привет, я Дарья! 👋
-
-<!--
-**wwwrayz45/wwwrayz45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## О себе
 - 🎓 Студент МГКЦТ
 - 💻 Изучаю Python,C++,JS
@@ -14,4 +10,7 @@
 - HTML
 ## Связаться со мной
 dariabudzko123@gmail.com
+
+<!--
+**wwwrayz45/wwwrayz45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
